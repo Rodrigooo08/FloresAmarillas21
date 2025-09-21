@@ -54,9 +54,7 @@ body {
 /* Card estilo */
 .card {
     width: 90vw; /* 90% del ancho de la ventana */
-    height: 90vh; /* 90% de la altura de la ventana */
     max-width: 600px;
-    max-height: 90vh;
     background: rgba(0, 0, 0, 0.7);
     border-radius: 15px;
     border: 1px solid #ffd700;
