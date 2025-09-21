@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    const audio = new Audio('/FLORESAMARILLAS21/sound/Flores-Amarillas.mp3');
+    const audio = new Audio('/FloresAmarillas21/sound/Flores-Amarillas.mp3');
     let isPlaying = false;
 
     function toggleAudio() {
